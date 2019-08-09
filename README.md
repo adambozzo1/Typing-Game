@@ -4,4 +4,4 @@ A typing game where you type out the characters that are descending on the scree
 
 In order to run download the libncurses5-dev library and do these commands:
 - g++ -o -output typing.cpp -lncurses 
-- n./output
+- ./output
